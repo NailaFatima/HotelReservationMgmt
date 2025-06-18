@@ -114,16 +114,9 @@ This project is a **Spring Boot** based hotel reservation management system that
 4. Run the Spring Boot application
 5. Hit endpoints using Postman / Swagger
 
----
-
-## 📄 Note
-
-- DTOs and model classes are assumed to exist based on the code structure.
-- Repository interfaces like `BookingRepository`, `RoomRepository`, and `UserRepository` are assumed to be standard Spring Data JPA interfaces.
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
-_If using for academic/project submission, ensure proper citations if reused._
+Made with ❤️ by Naila  
